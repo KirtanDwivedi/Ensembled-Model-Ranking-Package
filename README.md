@@ -1,8 +1,11 @@
-# Project Description
+# Ensembled Model Ranking using TOPSIS
 
-# TOPSIS Implementation
+![banner](banner.png)
 
-This python package is submitted by Kirtan Dwivedi; Roll No.- 102203600
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+This python package is submitted by Kirtan Dwivedi
 
 ## Overview
 
